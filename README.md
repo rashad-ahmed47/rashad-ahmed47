@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=B794F6&center=true&vCenter=true&width=560&lines=Node.js+%2B+TypeScript+%2B+NestJS;Backend+%2F+API+Development;Currently+Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=rashad-ahmed47&label=Profile%20Views&color=8a2be2&style=flat" alt="profile views" />
-<img src="https://img.shields.io/github/followers/rashad-ahmed47?label=Followers&style=flat&color=8a2be2" alt="followers" />
 
 </div>
 
