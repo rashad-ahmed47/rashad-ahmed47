@@ -13,7 +13,7 @@
 
 <br/>
 
-## 🧭 About Me
+## About Me
 
 - 🎓 CS graduate from **AASTMT** (Arab Academy for Science, Technology & Maritime Transport)
 - 🛠️ Completed a 6-month intensive **Backend Node.js** training program at **Route Academy**
@@ -26,7 +26,7 @@
 
 <br/>
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,express,mongodb,docker,git,postman,vscode&theme=dark" />
@@ -36,22 +36,14 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashad-ahmed47&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashad-ahmed47&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top languages" height="165"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashad-ahmed47&theme=radical&hide_border=true&background=0d1117" alt="GitHub streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rashad-ahmed47&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
-</div>
-
 <br/>
 
-## 🐍 Contribution Snake
+## 🐍
 
 <div align="center">
 
