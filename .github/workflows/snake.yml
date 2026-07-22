@@ -1,8 +1,8 @@
-name: generate snake animation
+name: generate tetris animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
+    - cron: "0 */12 * * *"    # runs every 12 hours
   workflow_dispatch:          # lets you trigger it manually from the Actions tab
   push:
     branches:
@@ -14,14 +14,14 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: generate snake svg
+      - name: generate tetris svg
         uses: Platane/snk@v3
-        id: snake-gif
+        id: tetris-svg
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-tetris.svg
+            dist/github-contribution-grid-tetris-dark.svg?palette=github-dark&color_snake=orange
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3
