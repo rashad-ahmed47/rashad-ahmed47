@@ -51,7 +51,7 @@
 
 <br/>
 
-## 🐍 Contribution Snake
+## 🎮 Contribution Tetris
 
 <div align="center">
 
@@ -59,32 +59,32 @@
   <!-- Shown when the user views GitHub in Dark Mode -->
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-tetris-dark.svg" 
+    srcset="https://raw.githubusercontent.com/rashad-ahmed47/rashad-ahmed47/output/github-contribution-grid-tetris-dark.svg" 
   />
   
   <!-- Shown when the user views GitHub in Light Mode -->
   <source 
     media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-tetris.svg" 
+    srcset="https://raw.githubusercontent.com/rashad-ahmed47/rashad-ahmed47/output/github-contribution-grid-tetris.svg" 
   />
   
   <!-- Fallback image -->
   <img 
     alt="GitHub Contribution Tetris Animation" 
-    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-tetris.svg" 
+    src="https://raw.githubusercontent.com/rashad-ahmed47/rashad-ahmed47/output/github-contribution-grid-tetris.svg" 
   />
 </picture>
 
 </div>
 
-> This snake is generated automatically by a GitHub Action (`.github/workflows/snake.yml`) — it "eats" the squares on your real contribution graph and updates itself on a schedule.
+> This animation is generated automatically by a GitHub Action (`.github/workflows/tetris.yml`) — it drops Tetris blocks onto your real contribution grid and updates on a schedule.
 
 <br/>
 
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="www.linkedin.com/in/rashad-ahmed-salaheldin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rashad-ahmed-salaheldin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rashadahmed2357@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
