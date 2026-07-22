@@ -1,91 +1,182 @@
 <div align="center">
 
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Rashad%20Ahmed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer&descAlignY=55&descSize=20&descColor=e0d4ff" width="100%"/>
 
+
+
 <a href="https://git.io/typing-svg">
+
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=B794F6&center=true&vCenter=true&width=560&lines=Node.js+%2B+TypeScript+%2B+NestJS;Backend+%2F+API+Development;Currently+Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+
 </a>
 
+
+
 <img src="https://komarev.com/ghpvc/?username=rashad-ahmed47&label=Profile%20Views&color=8a2be2&style=flat" alt="profile views" />
+
 <img src="https://img.shields.io/github/followers/rashad-ahmed47?label=Followers&style=flat&color=8a2be2" alt="followers" />
+
+
 
 </div>
 
+
+
 <br/>
+
+
 
 ## 🧭 About Me
 
+
+
 - 🎓 CS graduate from **AASTMT** (Arab Academy for Science, Technology & Maritime Transport)
+
 - 🛠️ Completed a 6-month intensive **Backend Node.js** training program at **Route Academy**
+
 - 🔭 Currently building backend systems with **NestJS**, **TypeScript**, and **MongoDB**
+
 - 🌱 Deepening my knowledge of **Node.js internals** (event loop, libuv, async I/O) and system design
+
 - 👯 Open to collaborating on **backend / API-driven projects**
+
 - 💬 Ask me about **Node.js, NestJS, TypeScript, MongoDB, REST APIs, auth & security**
+
 - 📫 Reach me at: **rashadahmed2357@gmail.com**
+
 - ⚡ Fun fact: when I'm not writing backend code, I'm probably deep into a JRPG or a line of poetry
 
+
+
 <br/>
+
+
 
 ## 🚀 Tech Stack
 
+
+
 <div align="center">
+
   <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,express,mongodb,docker,git,postman,vscode&theme=dark" />
+
 </div>
 
+
+
 <br/>
+
+
 
 ## 📊 GitHub Stats
 
+
+
 <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=rashad-ahmed47&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub stats" height="165"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashad-ahmed47&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top languages" height="165"/>
+
 </div>
 
+
+
 <div align="center">
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashad-ahmed47&theme=radical&hide_border=true&background=0d1117" alt="GitHub streak" />
+
 </div>
 
+
+
 <div align="center">
+
   <img src="https://github-profile-trophy.vercel.app/?username=rashad-ahmed47&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
+
 </div>
+
+
 
 <br/>
 
-## 🎮 Contribution Tetris
+
+
+## 🐍 Contribution Snake
+
+
 
 <div align="center">
+
+
 
 <picture>
+
   <!-- Shown when the user views GitHub in Dark Mode -->
+
   <source 
+
     media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/rashad-ahmed47/rashad-ahmed47/output/github-contribution-grid-tetris-dark.svg" 
+
+    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-tetris-dark.svg" 
+
   />
+
   
+
   <!-- Shown when the user views GitHub in Light Mode -->
+
   <source 
+
     media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/rashad-ahmed47/rashad-ahmed47/output/github-contribution-grid-tetris.svg" 
+
+    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-tetris.svg" 
+
   />
+
   
+
   <!-- Fallback image -->
+
   <img 
+
     alt="GitHub Contribution Tetris Animation" 
-    src="https://raw.githubusercontent.com/rashad-ahmed47/rashad-ahmed47/output/github-contribution-grid-tetris.svg" 
+
+    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-tetris.svg" 
+
   />
+
 </picture>
+
+
 
 </div>
 
-> This animation is generated automatically by a GitHub Action (`.github/workflows/tetris.yml`) — it drops Tetris blocks onto your real contribution grid and updates on a schedule.
+
+
+> This snake is generated automatically by a GitHub Action (`.github/workflows/snake.yml`) — it "eats" the squares on your real contribution graph and updates itself on a schedule.
+
+
 
 <br/>
+
+
 
 ## 🌐 Connect with Me
 
+
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/rashad-ahmed-salaheldin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+  <a href="www.linkedin.com/in/rashad-ahmed-salaheldin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
   <a href="mailto:rashadahmed2357@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/> 
+
