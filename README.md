@@ -21,7 +21,7 @@
 - 🌱 Deepening my knowledge of **Node.js internals** (event loop, libuv, async I/O) and system design
 - 👯 Open to collaborating on **backend / API-driven projects**
 - 💬 Ask me about **Node.js, NestJS, TypeScript, MongoDB, REST APIs, auth & security**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **rashadahmed2357@gmail.com**
 - ⚡ Fun fact: when I'm not writing backend code, I'm probably deep into a JRPG or a line of poetry
 
 <br/>
@@ -63,15 +63,13 @@
 
 </div>
 
-> This snake is generated automatically by a GitHub Action (`.github/workflows/snake.yml`) — it "eats" the squares on your real contribution graph and updates itself on a schedule.
-
 <br/>
 
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/rashad-ahmed-salaheldin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rashadahmed2357@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
