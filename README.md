@@ -56,9 +56,23 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rashad-ahmed47/rashad-ahmed47/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rashad-ahmed47/rashad-ahmed47/output/github-contribution-grid-snake.svg">
-  <img alt="a snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/rashad-ahmed47/rashad-ahmed47/output/github-contribution-grid-snake.svg" width="100%"/>
+  <!-- Shown when the user views GitHub in Dark Mode -->
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-tetris-dark.svg" 
+  />
+  
+  <!-- Shown when the user views GitHub in Light Mode -->
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-tetris.svg" 
+  />
+  
+  <!-- Fallback image -->
+  <img 
+    alt="GitHub Contribution Tetris Animation" 
+    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-tetris.svg" 
+  />
 </picture>
 
 </div>
