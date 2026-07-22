@@ -21,7 +21,7 @@
 - 🌱 Deepening my knowledge of **Node.js internals** (event loop, libuv, async I/O) and system design
 - 👯 Open to collaborating on **backend / API-driven projects**
 - 💬 Ask me about **Node.js, NestJS, TypeScript, MongoDB, REST APIs, auth & security**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **rashadahmed2357@gmail.com**
 - ⚡ Fun fact: when I'm not writing backend code, I'm probably deep into a JRPG or a line of poetry
 
 <br/>
