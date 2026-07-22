@@ -1,3 +1,1 @@
-## Hi there 👋
-
 <h1 align="center">Hi, I'm Rashad Ahmed 👋</h1> <h3 align="center">Backend Software Engineer · Node.js · TypeScript · NestJS</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=rashad-ahmed47&label=Profile%20Views&color=7b2ff7&style=flat" alt="profile views" /> <a href="https://github.com/rashad-ahmed47?tab=followers"><img src="https://img.shields.io/github/followers/rashad-ahmed47?label=Followers&style=flat&color=7b2ff7" alt="followers" /></a> </p>
